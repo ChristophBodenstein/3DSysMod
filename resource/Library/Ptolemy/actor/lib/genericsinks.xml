@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE plot PUBLIC "-//UC Berkeley//DTD MoML 1//EN"
+    "http://ptolemy.eecs.berkeley.edu/xml/dtd/MoML_1.dtd">
+<entity name="GenericSinks" class="ptolemy.moml.EntityLibrary">
+  <configure>
+    <?moml
+      <group>
+<doc>Sinks that work with any style of input (timed or not). </doc>
+
+<entity name="Discard" class="ptolemy.actor.lib.Discard"/>
+<entity name="MonitorValue" class="ptolemy.actor.lib.MonitorValue"/>
+<entity name="Publisher" class="ptolemy.actor.lib.Publisher"/>
+<entity name="Recorder" class="ptolemy.actor.lib.Recorder"/>
+<entity name="SetVariable" class="ptolemy.actor.lib.SetVariable"/>
+</group>
+    ?>
+  </configure>
+</entity>
