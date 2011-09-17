@@ -1,0 +1,41 @@
+Copyright (c) 2011, TU Ilmenau. 
+All rights reserved.
+
+Redistribution and use in source and binary forms, with or without 
+modification, are permitted provided that the following conditions are met:
+
+ - Redistributions of source code must retain the above copyright notice, 
+   this list of conditions and the following disclaimer.
+ - Redistributions in binary form must reproduce the above copyright notice,
+   this list of conditions and the following disclaimer in the documentation
+   and/or other materials provided with the distribution.
+ - Neither the name of the TU Ilmenau nor the names of its contributors 
+   may be used to endorse or promote products derived from this software 
+   without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY TU ILMENAU "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL TU ILMENAU BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+The headtracker.sln has been developed using the BSD license with the copytight of Intel Corporation un Intel Corporation.
+
+The 8 Java Files(swp.sim.HeadNavigator.java, swp.sim.HeadNavigatorBehavior.java, swp.sim.MyKeyNavigator.java, swp.sim.MyKeyNavigatorBehavior.java,swp.steuerung.MyKeyNavigator.java, swp.steuerung.MyKeyNavigatorBehavior.java ) have been developed using the BSD license with the copytight of Sun Microsystems.
+
+The libraries that include j3dcore.jar and vecmath.jar are covered under the GPL License version 2(See doc/GPL_v2.txt).
+
+The libraries that include commons-beanutils-1.8.3.jar,commons-beanutils-1.8.3-javadoc.jar,commons-beanutils-1.8.3-sources.jar, commons-beanutils-bean-collections-1.8.3.jar, commons-beanutils-core-1.8.3.jar, commons-logging-1.1.1.jar and jsyntaxpane.jar are covered under the Apache License Version 2.0(See doc/Apache_v2_0.txt).
+
+The library that includes j3dutils.jar ist covered under the BSD License(See doc/j3dutils_BSD.txt).
+
+The libraries that include OpenCV.jar, cv210.dll, cv210d.dll, cxcore210d.dll, highgui210d.dll and OpenCV.dll,  haarcascade_frontalface_alt.xml and files in the folders called lib and opencv are covered under the BSD License(See doc/opencv_BSD.txt).
+
+The libraries that includes jcommon-1.0.16.jar, jfreechart-1.0.13.jar and swing_la.jar are covered under the LGPL License version 2.1(See doc/LGPL_v2_1.txt).
+
+The library that includes jython.jar ist covered under the Jython License(See doc/jython_license.txt).
+
+The library that includes ptolemy.jar ist covered under the License(See doc/ptolemy_license.txt).
+
+The library that includes ptcolt.jar is covered under the following License(See doc/ptcolt_license.txt).
+ 
+The libraries that include WiiuseJ.jar, wiiusej.dll and wiiuse.dll are covered under the GPL License Version 3(See doc/GPL_v3.txt).
+
+The libraries that include j3dcore-d3d.dll, j3dcore-ogl.dll, j3dcore-ogl-cg.dll and j3dcore-ogl-chk.dll are covered under the Java3D Licens(See doc/Java3D_License.txt).
