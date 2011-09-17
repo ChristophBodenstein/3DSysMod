@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6(x86)"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/commons-beanutils-1.8.3-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/commons-beanutils-1.8.3-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/commons-beanutils-bean-collections-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/commons-beanutils-core-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/j3dcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/j3dutils.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/jcommon-1.0.16.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/jfreechart-1.0.13.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/jsyntaxpane.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/jython.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/OpenCV.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/ptcolt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/ptolemy.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/swing_la.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/vecmath.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Administrator.xiangyu1982/workspace/3dsysmodel/lib/WiiuseJ.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
